@@ -1,4 +1,4 @@
-**🎤 Speech Emotion Recognition System**
+# 🎤 Speech Emotion Recognition System
 
 **End-to-End Machine Learning Pipeline**
 
