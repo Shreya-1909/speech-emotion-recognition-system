@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Dataset
+data/
+
+# OS files
+.DS_Store
+
+# Model files (optional)
+model/*.h5
