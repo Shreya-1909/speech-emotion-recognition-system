@@ -2,7 +2,7 @@
 
 **End-to-End Machine Learning Pipeline**
 
-An end-to-end Speech Emotion Recognition (SER) system that classifies human emotions from speech audio using MFCC feature extraction, an LSTM-based deep learning model, and a Streamlit web application for real-time inference..
+An end-to-end Speech Emotion Recognition (SER) system that classifies human emotions from speech audio using MFCC feature extraction, an LSTM-based deep learning model, and a Streamlit web application for real-time inference...
 
 This project demonstrates production-style ML engineering, including data preprocessing, model training, evaluation, and deployment.
 
